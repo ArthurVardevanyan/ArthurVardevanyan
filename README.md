@@ -1,1 +1,1 @@
-![Containers](containers.jpg)
+![kubectl](kubectl.jpg)
